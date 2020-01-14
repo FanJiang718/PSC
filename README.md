@@ -1,2 +1,2 @@
 # PSC
-Collective Project( Image recognition for EDF)
+Collective Project( Image recognition for Electricite de France)
